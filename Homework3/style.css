@@ -1,0 +1,37 @@
+* { 
+    margin: 0;
+    padding: 0;
+}
+
+a  {
+    text-decoration: none;
+}
+
+.top {
+    margin-top: 40px;
+    margin-bottom: 84px;
+    padding-left: 375px;
+}
+
+.content {
+    margin-top: 84px;
+    padding-left: 375px;
+    /* background-color: blueviolet; */
+}
+
+.content_info {
+    margin-bottom: 17px;
+    /* background-color: chartreuse; */
+}
+
+.content_info_buttons {
+    margin-top: 102px;
+}
+
+.bottom {
+    padding-top: 97px;
+    padding-bottom: 96px;
+    padding-left: 345px;
+    
+}
+
